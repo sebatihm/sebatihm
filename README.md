@@ -2,11 +2,11 @@
 Actualmente soy un estudiante de ingenieria de software el cual esta aprendiendo diversas tecnologias, y los fundamentos esenciales.
 
 
-### Lenguajes con los que estoy familiarizado
-<ul>Rust</ul>
-<ul>Java</ul>
-<ul>C++</ul>
-<ul>Php</ul>
+## Lenguajes con los que estoy familiarizado
+* Rust
+* Java
+* C++
+* Php
 
 
 
