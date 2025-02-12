@@ -2,13 +2,16 @@
 Actualmente soy un estudiante de ingenieria de software el cual esta aprendiendo diversas tecnologias, y los fundamentos esenciales.
 
 
-## Lenguajes con los que estoy familiarizado
+#### Lenguajes con los que estoy familiarizado
 * Rust
 * Java
 * C++
 * Php
 
 
+
+#### Tecnologias con las que estoy familiarizado
+*   Laravel
 
 <!--
 **sebatihm/sebatihm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
