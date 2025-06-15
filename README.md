@@ -60,9 +60,10 @@
 
 <h3>Statistics</h3>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sebatihm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sebatihm&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebatihm&hide=python&theme=transparent)
 
 
 
