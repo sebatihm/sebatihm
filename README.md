@@ -6,7 +6,7 @@
   Hi, I'm Sebati Hosan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<h3 align="center">Software Engineer | Technical Content Writer | FullStack Enthusiast</h3>
+<h3 align="center">Software Engineer | Main BackEnd Developer | FullStack Enthusiast</h3>
 
 <container align="center">
   <div class="mt-1" align="center">
@@ -67,26 +67,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<!--
-**sebatihm/sebatihm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
