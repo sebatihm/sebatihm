@@ -25,7 +25,7 @@
 
 <h3>About me 💬</h3>
   <p>
-    Im a software engennier student in my seventh semester, i am currently learning mostly web development both backend and frontend but i am open to change, i like to make software that could contribute to solving a mayor problem.
+    Im a software engineer student in my seventh semester, i am currently learning mostly web development both backend and frontend but i am open to change, i like to make software that could contribute to solving a mayor problem.
   </p>
   
 - 🌱 I’m an student at **Universidad Veracruzana** <img align="right" style="width:16rem; height:auto; border-radius:10 " src="https://pm1.aminoapps.com/7067/55d700278f64e7c1e994db5fe099622c67083b38r1-486-486v2_00.jpg"/>
