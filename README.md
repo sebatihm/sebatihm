@@ -31,13 +31,14 @@
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="300" alt="pfp" src="https://i.pinimg.com/736x/86/33/a9/8633a9e4b9f96067d36c7ec96b0928dc.jpg">
+  <img align="right" top="500" height="300" width="300" alt="pfp" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyczduY2lod3psNXZ1cW9ia21jaHBsN3VkNml3ZzQxc2wxdGo5c3pmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/source.gif">
 </a>
 
 - 🌱 I’m an student at **Universidad Veracruzana**
 
 - 🔭 I’m currently learning about BackEnd Frameworks like
   -  FastAPI
+  -  Springboot
 
 - 🤝 I’m 22 years old, 
 
