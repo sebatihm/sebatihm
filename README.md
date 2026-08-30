@@ -34,8 +34,6 @@ I'm a Software Engineer focused on backend and full-stack web development, with 
   <img align="right" top="500" height="300" width="300" alt="pfp" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyczduY2lod3psNXZ1cW9ia21jaHBsN3VkNml3ZzQxc2wxdGo5c3pmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/source.gif">
 </a>
 
-- 🌱 I’m an student at **Universidad Veracruzana**
-
 - 🔭 I’m currently learning about BackEnd Frameworks like
   -  FastAPI
   -  Springboot
@@ -84,13 +82,6 @@ I'm a Software Engineer focused on backend and full-stack web development, with 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<h3>Statistics</h3>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sebatihm&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebatihm&theme=transparent)
 
 
 
