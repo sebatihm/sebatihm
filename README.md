@@ -26,7 +26,7 @@
 <h3>About me 💬</h3>
 
 <p>
- I'm in my eighth semester of studying software engineering, with a focus on full-stack web development. I like building software systems that solve real-world problems, especially when technology can make things more efficient, accessible, or easier to do every day. Right now, I'm working on improving my skills in both frontend and backend development while looking for impactful software projects. I'm open to internships and entry-level jobs where I can help with real-world software development and continue to grow as a developer.    
+I'm a Software Engineer focused on backend and full-stack web development, with experience building REST APIs, business applications, and scalable software solutions. I enjoy solving real-world problems through technology, with a focus on creating reliable, maintainable, and efficient systems. I'm continuously expanding my skills across backend, frontend, databases, and software infrastructure while working on projects that provide practical value. I'm open to professional opportunities where I can contribute to real-world software development, take on new challenges, and continue growing as an engineer.
 </p>
 <br>
 
